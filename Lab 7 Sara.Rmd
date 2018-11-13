@@ -19,8 +19,11 @@ kermit <- read_csv("kermit.csv")
 ```
 
 Sara, I'm beginning to doubt your commitment to our code.
+
+I'm not much of a commitment girl but for you Andrew I can make this thing work.
+
 <<<<<<< HEAD
-I'm not much of a commitment girl but for you Andrew I can make this thing work. 
+ 
 =======
 
 If you are the collaborator:
