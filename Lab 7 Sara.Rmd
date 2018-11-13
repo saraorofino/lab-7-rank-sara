@@ -1,0 +1,12 @@
+---
+title: "Lab 7 Rank Based Tests"
+author: "Sara Orofino"
+date: "11/13/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Hey Andrew - here we go again! Glad you're along for this journey with me. 
