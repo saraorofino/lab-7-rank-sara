@@ -10,3 +10,11 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Hey Andrew - here we go again! Glad you're along for this journey with me. 
+
+```{r, echo = FALSE}
+library(tidyverse) 
+
+kermit <- read_csv("kermit.csv")
+
+```
+
